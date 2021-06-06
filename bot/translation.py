@@ -10,7 +10,7 @@ class Translation(object):
 Don't Waste Your Time
 
 If You Want to Request Any Movie
-Use @MalluMovies_World Group
+Use 👇 👇 👇 Group
 </i>"""    
     
     HELP_TEXT = """
@@ -48,7 +48,7 @@ Use @MalluMovies_World Group
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/MalluMovies_World">Mallu</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="https://t.me/joinchat/5RHllMIPD5xkOGI1">Mallu</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
